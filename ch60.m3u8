@@ -24,5 +24,5 @@ http://kl.yamnah.net:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:111, tvg-id="" tvg-logo="https://de-digital-fortress-stg-assets.eco.astro.com.my/staging/2a4ea8d2d2e75e576b4a7de761113bc3.png" tvg-name="ASTRO AWANI"  group-title="MALAYSIA",ASTRO AWANI
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
-#EXTINF:111, tvg-id="" tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1200px-KBS_World_%282009%29.svg.png" tvg-name="KBS World Asia"  group-title="Oversea", KBS World Asia
+#EXTINF:111, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1200px-KBS_World_%282009%29.svg.png" tvg-name="KBS World Asia"  group-title="Oversea", KBS World Asia
 http://220.158.149.14:9999/live/TV00000000000000000112@HHZT;LIVE
