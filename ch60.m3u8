@@ -13,10 +13,10 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
 #EXTINF:107, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png" tvg-name="NTV7"  group-title="MALAYSIA",NTV7
-https://www.layarperak.tv/media/t7.m3u8
+https://www.layarperak.tv/media/ntv71.m3u8
 
 #EXTINF:108, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/8TV_my.svg/1280px-8TV_my.svg.png" tvg-name="8TV"  group-title="MALAYSIA",8TV
-https://www.layarperak.tv/media/t8.m3u8
+https://www.layarperak.tv/media/t82.m3u8
 
 #EXTINF:109, tvg-id="" tvg-logo="https://p7.hiclipart.com/preview/281/253/75/malaysia-tv9-media-prima-tv3-8tv-networking-topics-thumbnail.jpg" tvg-name="TV9"  group-title="MALAYSIA",TV9
 https://www.layarperak.tv/media/t9.m3u8
