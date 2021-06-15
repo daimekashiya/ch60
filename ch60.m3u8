@@ -18,8 +18,23 @@ https://fvtv.mywire.org/streams/dailymotion/ch_ntv7.m3u8
 #EXTINF:108, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/8TV_my.svg/1280px-8TV_my.svg.png" tvg-name="8TV"  group-title="MALAYSIA",8TV
 http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
 
-#EXTINF:109, tvg-id="" tvg-logo="https://p7.hiclipart.com/preview/281/253/75/malaysia-tv9-media-prima-tv3-8tv-networking-topics-thumbnail.jpg" tvg-name="TV9"  group-title="MALAYSIA",TV9
+#EXTINF:109, tvg-id="" tvg-logo="https://p7.hiclipart.com/preview/281/253/75/malaysia-tv9-media-prima-tv3-8tv-networking-topics-thumbnail.jpg" tvg-name="TV91"  group-title="MALAYSIA",TV9
 https://stream-01.dc3.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHab2lBbN9QrLOV7WZxkxmgc)/dm/3/x6qqja6/s/live-3.m3u8
+
+#EXTINF:109, tvg-id="" tvg-logo="https://p7.hiclipart.com/preview/281/253/75/malaysia-tv9-media-prima-tv3-8tv-networking-topics-thumbnail.jpg" tvg-name="TV92"  group-title="MALAYSIA",TV9
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRCl6v5m4Nf0KN1rx0YWitg)/dm/3/x6qqja6/s/live-3.m3u8
+
+#EXTINF:109, tvg-id="" tvg-logo="https://p7.hiclipart.com/preview/281/253/75/malaysia-tv9-media-prima-tv3-8tv-networking-topics-thumbnail.jpg" tvg-name="TV93"  group-title="MALAYSIA",TV9
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRh-oec04iMx1EBDoFEcLj0)/dm/3/x6qqja6/s/live-3.m3u8
+
+#EXTINF:109, tvg-id="" tvg-logo="https://p7.hiclipart.com/preview/281/253/75/malaysia-tv9-media-prima-tv3-8tv-networking-topics-thumbnail.jpg" tvg-name="TV94"  group-title="MALAYSIA",TV9
+https://fvtv2.mywire.org/streams/dailymotion/ch_tv9.m3u8
+
+#EXTINF:109, tvg-id="" tvg-logo="https://p7.hiclipart.com/preview/281/253/75/malaysia-tv9-media-prima-tv3-8tv-networking-topics-thumbnail.jpg" tvg-name="TV95"  group-title="MALAYSIA",TV9
+https://exodiver.github.io/IPTV/M3U8/Token/MY/TV9.m3u8
+
+#EXTINF:109, tvg-id="" tvg-logo="https://p7.hiclipart.com/preview/281/253/75/malaysia-tv9-media-prima-tv3-8tv-networking-topics-thumbnail.jpg" tvg-name="TV96"  group-title="MALAYSIA",TV9
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 
 #EXTINF:106, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" tvg-name="TV OKEY"  group-title="MALAYSIA",TV OKEY
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
