@@ -34,7 +34,7 @@ rtmp://live.layarku.tv/live/sz=IMN=oasis634543287956387365618946557239573453
 
 
 #EXTINF:113, tvg-id="Axn Sci-Fi" tvg-name="Axn Sci-Fi" group-title="ASTRO", Axn Sci-Fi
-http://77.91.77.21:6730/?sid=4b54285289daac7298b23fa49406p710
+http://av.xemtivinet.net:8080/hls/axn/index.m3u8
 
 #EXTINF:114, tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" group-title="ASTRO" tvg-logo="animalpl.png", Animal Planet HD
 http://202.75.23.34:1400/live/ch31/02.m3u8
