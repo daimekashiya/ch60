@@ -7,3 +7,4 @@ https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRh-oec04iMx1EBDoF
 https://fvtv2.mywire.org/streams/dailymotion/ch_tv9.m3u8
 https://exodiver.github.io/IPTV/M3U8/Token/MY/TV9.m3u8
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
