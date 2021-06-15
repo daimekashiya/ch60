@@ -33,17 +33,5 @@ rtmp://live.layarku.tv/live/sz=IMN=oasis634543287956387365618946557239573453
 
 
 
-#EXTINF:113, tvg-id="Axn Sci-Fi" tvg-name="Axn Sci-Fi" group-title="ASTRO", Axn Sci-Fi
-http://av.xemtivinet.net:8080/hls/axn/index.m3u8
-
-#EXTINF:114, tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" group-title="ASTRO" tvg-logo="animalpl.png", Animal Planet HD
-http://202.75.23.34:1400/live/ch31/02.m3u8
-
-#EXTINF:115, tvg-id="Nat Geo HD" tvg-name="National Geographic HD" group-title="ASTRO" tvg-logo="2204956.png", National Geographic HD
-http://202.75.23.35/live/ch38/03.m3u8
-
-#EXTINF:116, tvg-id="Nat Geo Wild HD" tvg-name="Nat Geo Wild HD" group-title="ASTRO" tvg-logo="5144421.png", Nat Geo Wild HD
-http://202.75.23.35/live/ch39/03.m3u8
-
-#EXTINF:117, tvg-id="Travel Channel" tvg-name="Travel Channel" group-title="ASTRO" tvg-logo="6172282.png", TRAVEL Channel
-http://202.75.23.35:1400/live/ch41/03.m3u8
+#EXTINF:113, tvg-id="Axn" tvg-name="Axn Sci-Fi" group-title="ASTRO", Axn
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226443/index.m3u8
