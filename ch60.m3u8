@@ -9,6 +9,18 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:102, tvg-id="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" tvg-name="TV2"  group-title="MALAYSIA",TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
+#EXTINF:103, tvg-id="" tvg-logo="https://baseimages.tonton.com.my/1514366375397_channel-logo-tv3.png" tvg-name="TV3"  group-title="MALAYSIA",TV3
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+
+#EXTINF:107, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png" tvg-name="NTV7"  group-title="MALAYSIA",NTV7
+https://fvtv.mywire.org/streams/dailymotion/ch_ntv7.m3u8
+
+#EXTINF:108, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/8TV_my.svg/1280px-8TV_my.svg.png" tvg-name="8TV"  group-title="MALAYSIA",8TV
+http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
+
+#EXTINF:109, tvg-id="" tvg-logo="https://p7.hiclipart.com/preview/281/253/75/malaysia-tv9-media-prima-tv3-8tv-networking-topics-thumbnail.jpg" tvg-name="TV9"  group-title="MALAYSIA",TV9
+https://stream-01.dc3.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHab2lBbN9QrLOV7WZxkxmgc)/dm/3/x6qqja6/s/live-3.m3u8
+
 #EXTINF:106, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" tvg-name="TV OKEY"  group-title="MALAYSIA",TV OKEY
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
@@ -17,21 +29,6 @@ https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 
 #EXTINF:105, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" tvg-name="TV SUKAN"  group-title="MALAYSIA",TV SUKAN
 https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
-
-#EXTINF:109, tvg-id="" tvg-logo="https://p7.hiclipart.com/preview/281/253/75/malaysia-tv9-media-prima-tv3-8tv-networking-topics-thumbnail.jpg" tvg-name="TV9"  group-title="MALAYSIA",TV9
-http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
-
-#EXTINF:107, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png" tvg-name="NTV7"  group-title="MALAYSIA",NTV7
-https://fvtv.mywire.org/streams/dailymotion/ch_ntv7.m3u8
-
-#EXTINF:103, tvg-id="" tvg-logo="https://baseimages.tonton.com.my/1514366375397_channel-logo-tv3.png" tvg-name="TV3"  group-title="MALAYSIA",TV3
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-
-#EXTINF:108, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/8TV_my.svg/1280px-8TV_my.svg.png" tvg-name="8TV"  group-title="MALAYSIA",8TV
-http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
-
-#EXTINF:103+, tvg-id="" tvg-logo="https://baseimages.tonton.com.my/1514366375397_channel-logo-tv3.png" tvg-name="TV3 BACKUP"  group-title="MALAYSIA",TV3 BACKUP
-http://ts.lemmovie.com/55a7edc5-112d-47ce-92bd-d242cf580f46.m3u8
 
 #EXTINF:111, tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" tvg-name="ASTRO RIA"  group-title="MALAYSIA",ASTRO RIA
 http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
