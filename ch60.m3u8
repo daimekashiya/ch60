@@ -18,11 +18,11 @@ https://fvtv.mywire.org/streams/dailymotion/ch_ntv7.m3u8
 #EXTINF:108, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/8TV_my.svg/1280px-8TV_my.svg.png" tvg-name="8TV"  group-title="MALAYSIA",8TV
 http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
 
-#EXTINF:1091, tvg-id="" tvg-logo="https://p7.hiclipart.com/preview/281/253/75/malaysia-tv9-media-prima-tv3-8tv-networking-topics-thumbnail.jpg" tvg-name="TV9"  group-title="MALAYSIA",TV9
+#EXTINF:109, tvg-id="" tvg-logo="https://p7.hiclipart.com/preview/281/253/75/malaysia-tv9-media-prima-tv3-8tv-networking-topics-thumbnail.jpg" tvg-name="TV9"  group-title="MALAYSIA",TV9
 http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
 
-
-
+#EXTINF:1091, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Logo_of_the_TV_Alhijrah.svg/919px-Logo_of_the_TV_Alhijrah.svg.png" tvg-name="TV Al-Hijrah"  group-title="MALAYSIA",TV Al Hijrah
+http://202.73.9.10:1935/mylive/smil:tvalhijrah_all.smil/playlist.m3u8
 
 
 #EXTINF:106, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" tvg-name="TV OKEY"  group-title="MALAYSIA",TV OKEY
