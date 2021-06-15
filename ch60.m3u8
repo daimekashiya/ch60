@@ -22,7 +22,7 @@ http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
 https://www.layarperak.tv/media/t9.m3u8
 
 #EXTINF:1091, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Logo_of_the_TV_Alhijrah.svg/919px-Logo_of_the_TV_Alhijrah.svg.png" tvg-name="TV Al-Hijrah"  group-title="MALAYSIA",TV Al Hijrah
-http://202.73.9.10:1935/mylive/smil:tvalhijrah_all.smil/playlist.m3u8
+http://kl.yamnah.net:8278/streams/d/Alhijrah/playlist.m3u8
 
 
 #EXTINF:106, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" tvg-name="TV OKEY"  group-title="MALAYSIA",TV OKEY
