@@ -6,10 +6,6 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:102, tvg-id="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" tvg-name="TV2"  group-title="MALAYSIA",TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
-#EXTINF:106, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" tvg-name="TV OKEY"  group-title="MALAYSIA",TV OKEY
-https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
-
-
 #EXTINF:103, tvg-id="" tvg-logo="https://baseimages.tonton.com.my/1514366375397_channel-logo-tv3.png" tvg-name="TV3"  group-title="MALAYSIA",TV3
 https://www.layarperak.tv/media/tv32.m3u8
 
@@ -27,11 +23,3 @@ http://kl.yamnah.net:8278/streams/d/Alhijrah/playlist.m3u8
 
 #EXTINF:111, tvg-id="" tvg-logo="https://de-digital-fortress-stg-assets.eco.astro.com.my/staging/2a4ea8d2d2e75e576b4a7de761113bc3.png" tvg-name="ASTRO AWANI"  group-title="MALAYSIA",ASTRO AWANI
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-
-#EXTINF:112, tvg-id="OASIS" tvg-logo="https://i.pinimg.com/originals/57/85/03/5785032caae05e02323b23135f8a6699.png" tvg-name="OASIS" group-title="MALAYSIA", OASIS
-rtmp://live.layarku.tv/live/sz=IMN=oasis634543287956387365618946557239573453
-
-
-
-#EXTINF:113, tvg-id="Axn" tvg-name="Axn Sci-Fi" group-title="ASTRO", Axn
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226443/index.m3u8
