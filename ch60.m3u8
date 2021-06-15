@@ -25,7 +25,7 @@ https://fvtv.mywire.org/streams/dailymotion/ch_ntv7.m3u8
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
 #EXTINF:108, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/8TV_my.svg/1280px-8TV_my.svg.png" tvg-name="8TV"  group-title="MALAYSIA",8TV
-http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+https://dmxleo.dailymotion.com/cdn/manifest/video/x4x8xn5.m3u8?auth=1623931386-2562-1jqo75uz-58598fcce80ffe024f442eb12bd1f65851conqs1mZbwVmIZmAVCvez7KnsSJOWSeao1zqCtVU6KYd6H-ypb2aHT-pPKUtJVaBJL0hqXV2R_guRDdZ3vH2xjTNgR5Z-qg2YSJa7JlLZG7NqQaKrVRZjgdsYeJKbQ6Gdql4pKO3HFNXxnZCASZVcU4VP6gBqgScrGmpmNctxP4cYM7cbzlx_xS21JYlLQI5H1nMEoRxnRuMuRHLnb1xw&bs=1&cookie_sync_ab_gk=1&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1---
 
 #EXTINF:103+, tvg-id="" tvg-logo="https://baseimages.tonton.com.my/1514366375397_channel-logo-tv3.png" tvg-name="TV3 BACKUP"  group-title="MALAYSIA",TV3 BACKUP
 http://ts.lemmovie.com/55a7edc5-112d-47ce-92bd-d242cf580f46.m3u8
