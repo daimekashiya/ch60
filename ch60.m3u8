@@ -22,28 +22,28 @@ https://www.layarperak.tv/media/tv81.m3u8
 #EXTINF:109, tvg-id="" tvg-logo="https://p7.hiclipart.com/preview/281/253/75/malaysia-tv9-media-prima-tv3-8tv-networking-topics-thumbnail.jpg" tvg-name="TV9"  group-title="MALAYSIA",TV9
 https://www.layarperak.tv/media/t9.m3u8
 
-#EXTINF:1091, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Logo_of_the_TV_Alhijrah.svg/919px-Logo_of_the_TV_Alhijrah.svg.png" tvg-name="TV Al-Hijrah"  group-title="MALAYSIA",TV Al Hijrah
+#EXTINF:110, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Logo_of_the_TV_Alhijrah.svg/919px-Logo_of_the_TV_Alhijrah.svg.png" tvg-name="TV Al-Hijrah"  group-title="MALAYSIA",TV Al Hijrah
 http://kl.yamnah.net:8278/streams/d/Alhijrah/playlist.m3u8
 
-#EXTINF:116, tvg-id="" tvg-logo="https://de-digital-fortress-stg-assets.eco.astro.com.my/staging/2a4ea8d2d2e75e576b4a7de761113bc3.png" tvg-name="ASTRO AWANI"  group-title="MALAYSIA",ASTRO AWANI
+#EXTINF:111, tvg-id="" tvg-logo="https://de-digital-fortress-stg-assets.eco.astro.com.my/staging/2a4ea8d2d2e75e576b4a7de761113bc3.png" tvg-name="ASTRO AWANI"  group-title="MALAYSIA",ASTRO AWANI
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
-#EXTINF:-1, tvg-id="OASIS" tvg-logo="https://i.pinimg.com/originals/57/85/03/5785032caae05e02323b23135f8a6699.png" tvg-name="OASIS" group-title="MALAYSIA", OASIS
+#EXTINF:112, tvg-id="OASIS" tvg-logo="https://i.pinimg.com/originals/57/85/03/5785032caae05e02323b23135f8a6699.png" tvg-name="OASIS" group-title="MALAYSIA", OASIS
 rtmp://live.layarku.tv/live/sz=IMN=oasis634543287956387365618946557239573453
 
 
 
-#EXTINF:-1 tvg-id="Axn Sci-Fi" tvg-name="Axn Sci-Fi" group-title="ASTRO", Axn Sci-Fi
+#EXTINF:113, tvg-id="Axn Sci-Fi" tvg-name="Axn Sci-Fi" group-title="ASTRO", Axn Sci-Fi
 http://77.91.77.21:6730/?sid=4b54285289daac7298b23fa49406p710
 
-#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" group-title="ASTRO" tvg-logo="animalpl.png", Animal Planet HD
+#EXTINF:114, tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" group-title="ASTRO" tvg-logo="animalpl.png", Animal Planet HD
 http://202.75.23.34:1400/live/ch31/02.m3u8
 
-#EXTINF:-1 tvg-id="Nat Geo HD" tvg-name="National Geographic HD" group-title="ASTRO" tvg-logo="2204956.png", National Geographic HD
+#EXTINF:115, tvg-id="Nat Geo HD" tvg-name="National Geographic HD" group-title="ASTRO" tvg-logo="2204956.png", National Geographic HD
 http://202.75.23.35/live/ch38/03.m3u8
 
-#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="Nat Geo Wild HD" group-title="ASTRO" tvg-logo="5144421.png", Nat Geo Wild HD
+#EXTINF:116, tvg-id="Nat Geo Wild HD" tvg-name="Nat Geo Wild HD" group-title="ASTRO" tvg-logo="5144421.png", Nat Geo Wild HD
 http://202.75.23.35/live/ch39/03.m3u8
 
-#EXTINF:-1 tvg-id="Travel Channel" tvg-name="Travel Channel" group-title="ASTRO" tvg-logo="6172282.png", TRAVEL Channel
+#EXTINF:117, tvg-id="Travel Channel" tvg-name="Travel Channel" group-title="ASTRO" tvg-logo="6172282.png", TRAVEL Channel
 http://202.75.23.35:1400/live/ch41/03.m3u8
