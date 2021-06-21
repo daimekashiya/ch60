@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:101, tvg-id="EPG N/A" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-name="TV1"  group-title="MALAYSIA",TV1
-https://rtmlive01.secureswiftcontent.com/rtm/live01_480.m3u8
+https://rtmlive01.secureswiftcontent.com/rtm/live01_360.m3u8
 
 #EXTINF:102, tvg-id="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" tvg-name="TV2"  group-title="MALAYSIA",TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
